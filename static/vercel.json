@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "ciberseguridad", "destination": "/ciberseguridad.html" },
-    { "source": "desarrollo-videojuegos", "destination": "/desarrollo-videojuegos.html" }
+    { "source": "ciberseguridad", "destination": "ciberseguridad.html" },
+    { "source": "desarrollo-videojuegos", "destination": "desarrollo-videojuegos.html" }
   ]
 }
